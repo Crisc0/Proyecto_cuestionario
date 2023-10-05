@@ -1,0 +1,60 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background: #E0EAFC;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ }
+
+.text-center{
+  text-align: center;
+}
+
+.full-width{
+  width: 100%;
+}
+
+.ml20{
+
+  margin-left: 20px !important ;
+}
+
+.mr20{
+  margin-right: 20px !important;
+}
+
+.mt20{
+  margin-top: 20px !important;
+}
+
+.mb20{
+  margin-bottom: 20px !important;
+}
+
+.ml10{
+
+  margin-left: 10px !important ;
+}
+
+.mr10{
+  margin-right: 10px !important;
+}
+
+.mt10{
+  margin-top: 10px !important;
+}
+
+.mb10{
+  margin-bottom: 10px !important;
+}
+
+.ml70{
+
+  margin-left: 70px !important;
+}
+
+
+
+
